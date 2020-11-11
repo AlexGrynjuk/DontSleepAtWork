@@ -1,0 +1,14 @@
+D:\GitProject\DontSleepAtWork\DontSleepAtWork\bin\Debug\DontSleepAtWork.exe.config
+D:\GitProject\DontSleepAtWork\DontSleepAtWork\bin\Debug\DontSleepAtWork.exe
+D:\GitProject\DontSleepAtWork\DontSleepAtWork\bin\Debug\DontSleepAtWork.pdb
+D:\GitProject\DontSleepAtWork\DontSleepAtWork\obj\Debug\DontSleepAtWork.Form1.resources
+D:\GitProject\DontSleepAtWork\DontSleepAtWork\obj\Debug\DontSleepAtWork.Properties.Resources.resources
+D:\GitProject\DontSleepAtWork\DontSleepAtWork\obj\Debug\DontSleepAtWork.csproj.GenerateResource.Cache
+D:\GitProject\DontSleepAtWork\DontSleepAtWork\obj\Debug\DontSleepAtWork.exe
+D:\GitProject\DontSleepAtWork\DontSleepAtWork\obj\Debug\DontSleepAtWork.pdb
+D:\GitProject\DontSleepAtWork\DontSleepAtWork\obj\Debug\DontSleepAtWork.Form2.resources
+D:\GitProject\DontSleepAtWork\DontSleepAtWork\bin\Debug\DontSleepAtWork.exe.manifest
+D:\GitProject\DontSleepAtWork\DontSleepAtWork\bin\Debug\DontSleepAtWork.application
+D:\GitProject\DontSleepAtWork\DontSleepAtWork\obj\Debug\DontSleepAtWork.exe.manifest
+D:\GitProject\DontSleepAtWork\DontSleepAtWork\obj\Debug\DontSleepAtWork.application
+D:\GitProject\DontSleepAtWork\DontSleepAtWork\obj\Debug\DontSleepAtWork.csprojResolveAssemblyReference.cache
